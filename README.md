@@ -158,7 +158,7 @@ If the script is interrupted (Ctrl+C), you can simply run it again and it will:
 - Check that you're logged into IMDb in the Chrome window
 
 ### Script runs too fast/slow
-- Increase or decrease the `time.sleep()` values in the script if needed (line 176 controls the delay between movies)
+- Increase or decrease the `time.sleep()` values in the script if needed (line 203 controls the delay between movies)
 
 ## Advanced Usage
 
